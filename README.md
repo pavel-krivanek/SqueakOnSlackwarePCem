@@ -1,4 +1,4 @@
-# Historical Squeak 1.13 on Slackware 1.1.1 as PCem virtual machine
+# Historical Squeak 1.13 on Slackware 1.1.2 as PCem virtual machine
 
 * Slackware 1.1.2 from 1994
 * Squeak 1.13 from 1996
